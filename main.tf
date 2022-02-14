@@ -28,7 +28,6 @@ terraform {
     }
   }
 }
-
 // Configure the provider
 provider "hcp" {}
 // Use the cloud provider GCP to provision resources that will be connected to HCP
