@@ -1,5 +1,5 @@
 billing_account = "01CC34-D7DDC5-F7897A"
-name            = "prj-demo-ab"
+name            = "prj-demo-gcp-demos"
 org_id          = "434709924706"
 #billing_account = var.billing_account
 #name            = var.name
