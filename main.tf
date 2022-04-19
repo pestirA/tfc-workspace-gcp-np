@@ -22,7 +22,7 @@ terraform {
   cloud {
     organization = "tfc-workspace-gcp-np"
     hostname     = "app.terraform.io"
-    token        = "cxo3MxJ1k0n7dA.atlasv1.ILshRz44PouoMWneKm8fMLFDiuQN5UuzhXbAkaMhr0GTS4YHOvb9tHxa3ccAeEuZyZ8"
+    token        = "STOREDINVAULT"
     workspaces {
       name = "tfc-workspace-gcp-demos"
     }
